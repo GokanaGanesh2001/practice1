@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(image.jpg);
+    padding: 20px;
+}
+#d1{
+    text-align: center;
+    margin: 15%;
+}
+div a{
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #333;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+}
